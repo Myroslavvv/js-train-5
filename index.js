@@ -218,6 +218,7 @@ function multiplyByIndex(arr) {
   }
   return res;
 }
+
 console.log("Завдання 12 ====================================");
 console.log(multiplyByIndex([1, 2, 3, 4, 5])); // Виведе [0, 2, 6, 12, 20]
 
